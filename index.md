@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/y449329998/y449329998.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+7年PHP开发者,梳理使用ThinkPHP和Laravel,略懂服务器运维和数据库优化
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技术栈
+PHP MYSQL Laravel ThinkPHP Hyperf
 
 ```markdown
 Syntax highlighted code block
