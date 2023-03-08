@@ -1,6 +1,6 @@
 ## 个人简介
 
-7年PHP开发者,梳理使用ThinkPHP和Laravel,略懂服务器运维和数据库优化
+7年PHP开发者,熟练使用ThinkPHP和Laravel,略懂服务器运维和数据库优化
 
 
 ### 技术栈
